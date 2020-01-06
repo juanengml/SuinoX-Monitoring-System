@@ -20,4 +20,4 @@ Usando um CNN para Classificar porcos e gatos - https://github.com/juanengml/CNN
 
 ![](https://isense.farm/sites/default/files/3Dcam2.gif)
 
-https://isense.farm/tags/precision-livestock-farming
+Projeto gringo - https://isense.farm/tags/precision-livestock-farming
