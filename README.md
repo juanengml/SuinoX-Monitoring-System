@@ -3,14 +3,14 @@ Projetinho de Suino Cultura V1
 
 ## Arquitetura de Rede 
 
-![](SuinoCultura-papai.png)
+![](img/SuinoCultura-papai.png)
 
 
 ## Telas da Aplicação web
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
+![](img/4.png)
 
 ## Projetos Relacionados 
 
@@ -18,6 +18,6 @@ Usando Rede VGG16 e Imagenet - https://github.com/juanengml/PorkClassifier-With-
 
 Usando um CNN para Classificar porcos e gatos - https://github.com/juanengml/CNN-Model-Classificador-de-Porcos-e-gatos
 
-![](https://github.com/juanengml/SuinoCultura_farm/blob/master/3Dcam2.gif)
+![](https://github.com/juanengml/SuinoCultura_farm/blob/master/img/3Dcam2.gif)
 
 Projeto gringo - https://isense.farm/tags/precision-livestock-farming

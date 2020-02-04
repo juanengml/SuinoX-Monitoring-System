@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/home/juan/Desenvolvimento/SuinoCultura_farm/env/bin/python
+=======
+#!/home/juan/Modelos/SuinoCultura_farm/env/bin/python
+>>>>>>> 6c0f05f89e713a3692e40d0f9d4f08eaf98b6f26
 
 import sys
 import getopt
