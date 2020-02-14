@@ -3,7 +3,7 @@ Projetinho de Suino Cultura V1
 
 ## Arquitetura de Rede 
 
-![](img/SuinoCultura-papai.png)
+![](img/SuinoCultura-papai3.png)
 
 
 ## Telas da Aplicação web
