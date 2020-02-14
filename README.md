@@ -1,4 +1,4 @@
-# SuinoCultura_farm
+# SuinoX Monitoring System
 Projetinho de Suino Cultura V1 
 
 ## Arquitetura de Rede 
