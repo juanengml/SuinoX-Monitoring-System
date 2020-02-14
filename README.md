@@ -7,10 +7,8 @@ Projetinho de Suino Cultura V1
 
 
 ## Telas da Aplicação web
-![](img/1.png)
-![](img/2.png)
-![](img/3.png)
-![](img/4.png)
+
+![](https://github.com/juanengml/SuinoCultura_farm/blob/master/img/app_mvp.gif)
 
 ## Projetos Relacionados 
 
