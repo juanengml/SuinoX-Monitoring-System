@@ -7,8 +7,16 @@ Projetinho de Suino Cultura V1
 
 
 ## Telas da Aplicação web
+<center>
+ <figure>
+   <img src="https://github.com/juanengml/SuinoCultura_farm/blob/master/img/app_mvp.gif" alt="Minha Figura" width="200" height="400">	
+   
+ </figure>
+</center>
 
-![](https://github.com/juanengml/SuinoCultura_farm/blob/master/img/app_mvp.gif)
+## Tagg das imanges 
+![](https://raw.githubusercontent.com/juanengml/SuinoCultura_farm/master/img/AppTagg.png)
+
 
 ## Projetos Relacionados 
 
