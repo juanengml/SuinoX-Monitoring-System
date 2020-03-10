@@ -6,6 +6,7 @@ Projetinho de Suino Cultura V1
 ![](img/SuinoCultura-papai3.png)
 
 
+
 ## Telas da Aplicação web
 
 <center>
@@ -14,6 +15,10 @@ Projetinho de Suino Cultura V1
    
  </figure>
 </center>
+
+## Api para receber imagens do curral e salvar em uma pasta 
+
+https://github.com/juanengml/suinox_api_storage_firebase_folder
 
 ## Tagg das images 
 
