@@ -18,10 +18,12 @@ Projetinho de Suino Cultura V1
 
 ## Api para receber imagens do curral e salvar em uma pasta 
 
-https://github.com/juanengml/suinox_api_storage_firebase_folder
-![](img/ApiStorageUpload_SuinoX.png)
+LINK - https://github.com/juanengml/suinox_api_storage_firebase_folder
 
 
+![](https://raw.githubusercontent.com/juanengml/SuinoX-Monitoring-System/master/img/ApiStorageUpload%20SuinoX.png)
+
+--- 
 
 ## Tagg das images 
 
